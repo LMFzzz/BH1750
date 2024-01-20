@@ -1,0 +1,3 @@
+D:/STM32Project/BH1750/cmake-build-debug/CMakeFiles/BH1750.elf.dir
+D:/STM32Project/BH1750/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STM32Project/BH1750/cmake-build-debug/CMakeFiles/rebuild_cache.dir
